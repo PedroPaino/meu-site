@@ -1,28 +1,28 @@
-Meu Site Pessoal - Portfolio.io
+Pedro Paino - Desenvolvedor Web Front-End
 
-Descrição
+Descrição:
 
-Este é o meu site pessoal desenvolvido com HTML, CSS e JavaScript para exibir meu portfólio online.
+Este é o meu site pessoal, desenvolvido com HTML, CSS e JavaScript, para exibir meu portfólio online.
 
-Recursos
+Funcionalidades:
 
-Página inicial (index.html)
-Arquivos CSS na pasta "css"
-Arquivos JavaScript na pasta "scripts"
-Outros recursos na pasta "assets"
-Como Usar
+Responsivo: O site se adapta a diferentes dispositivos, como computadores, celulares e tablets.
+Fácil de navegar: A navegação é simples e intuitiva, permitindo que os visitantes encontrem facilmente as informações que procuram.
+Atrativo: O site possui um design clean e atrativo que reflete minhas habilidades de desenvolvimento web front-end.
+Como usar:
 
 Clone este repositório.
 Abra o arquivo index.html em seu navegador para visualizar o site.
 Explore as diferentes seções do site para ver meu portfólio.
-Contribuições
+Contribuições:
 
-Contribuições são bem-vindas! Para contribuir, siga as diretrizes de contribuição em [LINK DO GUIA DE CONTRIBUIÇÕES].
+Contribuições para melhorar o site são bem-vindas! Para contribuir, siga as diretrizes de contribuição em [LINK DO GUIA DE CONTRIBUIÇÕES].
 
-Licença
+Licença:
 
-Este projeto é licenciado sob [NOME DA LICENÇA].
+Este projeto é licenciado sob a licença MIT.
 
-Contato
+Contato:
 
-Para perguntas ou suporte, entre em contato com Pedro Paino em [EMAIL DE CONTATO].
+Para perguntas ou suporte, entre em contato comigo pelo email [endereço de email removido].
+
